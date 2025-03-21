@@ -1,1 +1,0 @@
-# Gwcet-cgpa-calculator-btech
